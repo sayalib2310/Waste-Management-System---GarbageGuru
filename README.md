@@ -1,1 +1,1 @@
-# Waste-Management-System---GarbageGuru
+# Waste-Management-System - GarbageGuru
